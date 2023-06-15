@@ -3,8 +3,7 @@
 title: Create a CI/CD pipeline for .NET with the DevOps Starter Project
 layout: page
 sidebar: vsts2
-permalink: /labs/vstsextend/azuredevopsprojectdotnet/
-folder: /labs/vstsextend/azuredevopsprojectdotnet/
+
 ---
 <div class="rw-ui-container"></div>
 
